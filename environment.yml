@@ -1,0 +1,13 @@
+name: SubspaceExp
+dependencies:
+  - python>=3.5
+  - pip>=19
+  - matplotlib
+  - notebook
+  - ipywidgets
+  - pip:
+      - qiskit
+      - pandas
+      - statsmodels
+      - sympy
+      - multiprocessing
